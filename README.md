@@ -1,5 +1,5 @@
 
-<img src="./.github/assets/calliope.png" alt="Calliope" width="30%" />
+<img src="./github/assets/calliope.png" alt="Calliope" width="30%" />
 
 [![Development Status](https://img.shields.io/static/v1?label=status&message=Active&nbsp;Development&color=yellow&style=flat-square&?logo=open-source-initiative&logoColor=ffffff)](#) [![Version](https://img.shields.io/github/v/release/hieronymous-bean/calliope?include_prereleases&style=flat-square)](#) [![Issues](https://img.shields.io/github/issues-raw/hieronymous-bean/calliope?style=flat-square)](#) [![License](https://img.shields.io/github/license/hieronymous-bean/calliope?style=flat-square)](#)
 
